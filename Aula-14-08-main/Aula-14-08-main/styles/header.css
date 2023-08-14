@@ -1,0 +1,20 @@
+.img-movimento{
+   width: 700px;
+   border: 35px groove rgba(70, 189, 236, 0.822);
+   
+
+}
+
+.gif-title{
+    font-size:smaller;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+
+}
+.container{
+    text-align:center ;
+    border: 50px groove rgba(80, 188, 230, 0.836)
+
+
+}
